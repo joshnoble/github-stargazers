@@ -3,7 +3,7 @@ var secret;
 
 function Keys()
 {
-	//Add Github ClientID and secret
+	//Add Github Client ID and Client Secret
 	this.id = '';
 	this.secret = '';
 }
