@@ -1,0 +1,243 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"log",
+				"logInBrowser"
+			],
+			[
+				"pi",
+				"pingBack"
+			],
+			[
+				"repo",
+				"repoURL"
+			],
+			[
+				"contr",
+				"contributors"
+			],
+			[
+				"so",
+				"sockets"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"row",
+				"rowCount"
+			],
+			[
+				"tab",
+				"tableRows"
+			],
+			[
+				"repona",
+				"reponam"
+			],
+			[
+				"cont",
+				"contributors"
+			],
+			[
+				"html",
+				"html_url"
+			],
+			[
+				"contri",
+				"contribs"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 207.0,
+		"selected_items":
+		[
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"find and install Emmet plugin",
+			"Install Package” command, find and install Emmet plugin",
+			"command, find and install Emmet plugin",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/Josh/Workspace/new/public/javascripts/socketSetup.js",
+		"/Users/Josh/Workspace/new/app.js",
+		"/Users/Josh/Workspace/new/package.json",
+		"/Users/Josh/Workspace/new/views/layout.jade",
+		"/Users/Josh/Workspace/new/views/index.jade",
+		"/Users/Josh/Workspace/Stargazers/index.js",
+		"/Users/Josh/Workspace/Stargazers/github.js",
+		"/Users/Josh/Workspace/hello-world/app.js",
+		"/Users/Josh/Workspace/new/proxy.js",
+		"/Users/Josh/Workspace/new/public/stylesheets/style.css",
+		"/Users/Josh/Workspace/Stargazers/package.json",
+		"/Users/Josh/Workspace/new/public/javascripts/http   ajax.googleapis.com ajax libs jquery 1 jquery.min.js is not available",
+		"/Users/Josh/Workspace/new/public/javascripts/socketSetup",
+		"/Users/Josh/Workspace/new/views/index1.jade",
+		"/Users/Josh/Workspace/new/views/doctype 5",
+		"/Users/Josh/Workspace/new/routes/index.js",
+		"/Users/Josh/Workspace/new/views/scripts.jade",
+		"/Users/Josh/Workspace/hello-world/node_modules/views/index.jade",
+		"/Users/Josh/Workspace/hello-world/package.json",
+		"/Users/Josh/Workspace/hello-world/package.JSON",
+		"/Users/Josh/Workspace/Stargazers/package.JSON",
+		"/Users/Josh/Workspace/Stargazers/helloworld.js",
+		"/Users/Josh/Workspace/Stargazers/server.js"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"login",
+			"colors",
+			"socket.io",
+			"octonode",
+			"inspect",
+			"updateVie"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"project": "Stargazers.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

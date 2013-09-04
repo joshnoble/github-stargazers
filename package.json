@@ -1,0 +1,18 @@
+{
+  "name": "github-stargazers",
+  "subdomain": "github_stargazers",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "version": "0.1.0-22",
+  "engines": {
+    "node": "0.10.x"
+  },
+  "dependencies": {
+    "express": "3.3.6",
+    "jade": "*",
+    "octonode": "0.2.0",
+    "socket.io": "0.9.16",
+    "http-proxy": "0.10.3"
+  }
+}

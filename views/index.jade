@@ -1,0 +1,25 @@
+extends layout
+
+block content
+  div.container
+    div.content
+      div.submit
+        .control-group
+          label.control-label(for='repoName') GitHub Repo
+          .controls
+            .input-append
+              input#repoName.input-xlarge(type='text', name='repoName')
+              button#submitBtn.btn(type='button' data-loading-text='.' onclick='buttonClick();')
+                i.icon-search
+            p#label
+              b#boldLabel
+      div.table
+        table#myTable.table.table-striped
+          thead
+            tr
+              th Name
+              th Github
+              th Blog
+              th Location
+              th Contributor
+          tbody
